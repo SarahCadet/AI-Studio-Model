@@ -1,6 +1,6 @@
 # Heartbeat Stress Prediction with 1D CNN
 
-This repository contains the code and resources for a 1D Convolutional Neural Network (1D CNN) model designed to predict stress levels using Photoplethysmogram (PPG) data. This project was developed as part of the AI Studio program by Embolden Associates LLC.
+This repository contains the code and resources for a 1D Convolutional Neural Network (1D CNN) model designed to predict stress levels using Photoplethysmogram (PPG) data. This project was developed as part of the AI Studio for Embolden Associates LLC.
 
 ---
 
@@ -83,19 +83,9 @@ Possible enhancements include:
 
 ---
 
-## Repository Contents
-
-- `model.py`: Implementation of the 1D CNN model.
-- `data_preprocessing.py`: Functions for data cleaning, feature extraction, and time-series splitting.
-- `train.py`: Script for training the model.
-- `evaluate.py`: Script for evaluating the trained model.
-- `requirements.txt`: List of required Python libraries.
-
----
-
 ## Acknowledgements
 
-This project was completed as part of the AI Studio program with guidance from:
+This project was completed as part of the AI Studio portion of the MIT Break Through Tech AI program with guidance from:
 
 - **TA**: Andrii Zahorodnii  
 - **Challenge Advisors**: Dr. Sarai Koo and Alfredo Reina Corona  
